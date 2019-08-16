@@ -32,3 +32,4 @@ fields:
     required: true
 pages:
 - portfolio/index.md
+- portfolio/index.md
