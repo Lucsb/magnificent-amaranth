@@ -3,7 +3,7 @@ title: Stackbit Exto Theme
 baseurl: "/"
 permalink: "/:title/"
 color_scheme: light
-accent_color: green
+accent_color: violet
 header:
   title: Exto!
   has_nav: true
