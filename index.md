@@ -3,13 +3,13 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: 'Hi, I''m Stackbit Exto Portfolio Theme. ?? '
+  title: Hi, I'm Stackbit Exto Portfolio Theme.
   section_id: hero
   component: hero_block.html
   content: |-
     This section can contain a subtitle or tagline. The recommended length is one to three sentences, but can be changed as you prefer.
 
-    ![](/images/jane_roe.jpg)
+    ![](/images/jane_roe.jpg) ![](/images/15.jpg)
 
     And another line.
 - type: portfolioblock
