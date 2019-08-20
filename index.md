@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme. m--- !!!
+  title: Hi, HOORAY.
   section_id: hero
   component: hero_block.html
   content: |-
